@@ -1,0 +1,6 @@
+{
+  "name": "Expense Management Tracker",
+  "description": "Offline-first, privacy-focused multi-space expense manager supporting Personal, Family, and Business spaces with budgeting, debt netting, salary, invoice, and fuel logging.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
